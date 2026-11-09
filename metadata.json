@@ -1,0 +1,6 @@
+{
+  "name": "Orbitals — Dark Moon",
+  "description": "A dark lunar mission interactive hero with a 3D perspective card carousel floating over an animated moonscape, orbit-line decorations, and condensed typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
